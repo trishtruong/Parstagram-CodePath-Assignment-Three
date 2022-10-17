@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-// ![]()
+![](https://github.com/trishtruong/Parstagram-CodePath-Assignment-Three/blob/main/Parstagram%20Walk%20Through.gif)
